@@ -6,12 +6,12 @@
 #    By: skheir <skheir@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/11/08 11:00:00 by sally             #+#    #+#              #
-#    Updated: 2025/11/08 13:44:04 by skheir           ###   ########.fr        #
+#    Updated: 2025/11/14 13:25:22 by skheir           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = libft.a
-CC = gcc
+CC = cc
 CFLAGS = -Wall -Wextra -Werror
 AR = ar rcs
 RM = rm -f
